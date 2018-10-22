@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fcd03d8f4ab779e4d908199559898d38
+timeCreated: 1531026889
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Univers Else
+  fontNames:
+  - Univers Else
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: be962643577aa5743ae6144f00dc87b7, type: 3}
+  - {fileID: 12800000, guid: 80484c26525182f44b4ad6f83b2b1840, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
